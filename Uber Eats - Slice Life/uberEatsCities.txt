@@ -1,0 +1,521 @@
+Cordoba, AR
+Mendoza
+Adelaide
+Bendigo and Ballarat
+Brisbane
+Cairns
+Canberra
+Geelong
+Gold Coast
+Hobart
+Melbourne
+Newcastle
+Perth
+Sunshine Coast
+Sydney
+Toowoomba
+Townsville
+Wollongong
+Vienna
+Dhaka
+Antwerp
+Brussels
+Ghent
+Leuven
+Liege
+Namur
+La Paz
+Santa Cruz, BO
+Belem
+Belo Horizonte
+Brasilia
+Cabo Frio
+Campinas
+Campo Grande
+Caruaru
+Cuiaba
+Curitiba
+Fortaleza
+Goiania
+Joao Pessoa
+Manaus
+Maringa
+Natal
+Porto Alegre
+Recife
+Ribeirao Preto
+Rio De Janeiro
+Salvador
+Sao Jose do Rio Preto
+Sao Jose dos Campos
+Sao Paulo
+Vitoria
+Calgary
+Edmonton
+Gatineau
+Greater Sudbury
+Halifax
+Hamilton
+Kingston
+Kitchener-Waterloo
+Lethbridge
+London, Ont
+Montreal
+Niagara Region
+Ottawa
+Peterborough
+Quebec City
+Red Deer
+Regina
+Saskatoon
+Sault Ste. Marie
+Sherbrooke
+Thunder Bay
+Toronto
+Trois-Rivieres
+Vancouver
+Victoria
+Windsor
+Winnipeg
+Santiago
+Valparaiso
+Armenia
+Barranquilla
+Bogota
+Bucaramanga
+Cali - Colombia
+Medellin
+Pereira
+Santa Marta
+San Jose, CR
+Prague
+Santiago, DR
+Guayaquil
+Quito
+Cairo
+San Salvador
+Amiens
+Angers
+Annecy
+Avignon
+Besancon
+Bordeaux
+Brest
+Cherbourg
+Clermont Ferrand
+Dijon
+Grenoble
+La Rochelle
+Lille
+Limoges
+Lorient
+Lyon
+Marseille
+Montpellier
+Mulhouse
+Nancy
+Nantes
+Nice
+Orleans
+Paris
+Perpignan
+Poitiers
+Reims
+Rennes
+Rouen
+Saint Quentin
+Strasbourg
+Toulon
+Toulouse
+Tours
+Troyes
+Guatemala City
+Tegucigalpa
+Hong Kong
+Ahmedabad
+Aurangabad
+Bangalore
+Bhopal
+Chandigarh
+Chennai
+Coimbatore
+Dehradun
+Delhi NCR
+Guwahati
+Hyderabad
+Indore
+Jaipur
+Kochi
+Kolkata
+Kollam
+Kottayam
+Lucknow
+Ludhiana
+Madurai
+Mumbai
+Mysore
+Nagpur
+Nashik
+Pune
+Surat
+Thiruvananthapuram
+Thrissur
+Tiruchirapalli
+Vadodara
+Vijayawada
+Visakhapatnam
+Dublin
+Bologna
+Catania
+Florence
+Genoa
+Milan
+Napoli
+Palermo
+Reggio Emilia
+Rimini
+Rome
+Trieste
+Turin
+Fukuoka
+Kobe
+Kyoto
+Nagoya
+Osaka
+Tokyo
+Yokohama
+Nairobi
+Incheon
+Seongnam
+Seoul
+Kuala Lumpur
+Aguascalientes
+Chihuahua
+Ciudad Juarez
+Ciudad Obregon
+Culiacan
+Durango
+Guadalajara
+Guanajuato
+Hermosillo
+La Paz, Mexico
+Leon
+Mazatlan
+Merida
+Mexicali
+Mexico City
+Monterrey
+Morelia
+Puebla
+Queretaro
+Saltillo
+San Luis Potosi
+Tijuana
+Toluca
+Torreon
+Veracruz
+Amsterdam
+Southern Netherlands
+Auckland
+Christchurch
+Dunedin
+Hamilton, NZ
+Tauranga
+Wellington
+Panama City, PA
+Lima
+Bydgoszcz
+Krakow
+Lodz
+Lublin
+Poznan
+Trojmiasto
+Warsaw
+Wroclaw
+Aveiro
+Coimbra
+Lisbon
+Porto
+Bucharest
+Moscow
+Jeddah
+Riyadh
+Bloemfontein
+Cape Town
+Durban
+Johannesburg and Pretoria
+Albacete
+Alicante
+Almeria
+Aviles
+Barcelona
+Bilbao
+Cadiz
+Castellon
+Gijon
+Girona
+Granollers
+Huelva
+Jaen
+Jerez
+Las Palmas
+Lleida
+Logrono
+Lugo
+Madrid
+Málaga
+Mallorca
+Manresa
+Melilla
+Ourense
+Oviedo
+Palencia
+Pontevedra
+Segovia
+Seville
+Tarragona
+Toledo, Spain
+Valencia
+Zamora, Spain
+Zaragoza
+Colombo
+Gothenburg
+Malmö
+Stockholm
+Geneva
+Lausanne
+Zurich
+Hsinchu
+Kaohsiung
+Taichung
+Taipei
+Taoyuan
+Kyiv
+Abu Dhabi
+Dubai
+Sharjah
+Belfast
+Birmingham, UK
+Brighton and Sussex
+Cambridge and East Anglia
+Cardiff
+Edinburgh
+Glasgow
+Hull
+Leeds
+Leicester
+London
+Manchester
+Merseyside
+North East, UK
+Northampton and Milton Keynes
+Nottingham
+Oxford, UK
+Sheffield
+South Coast, UK
+South West, UK
+Stoke
+Abilene
+Akron
+Albuquerque
+Amarillo
+Ann Arbor
+Asheville, NC
+Athens
+Atlanta
+Auburn
+Augusta
+Austin
+Bakersfield
+Baltimore-Maryland
+Baton Rouge
+Beaumont
+Bellingham
+Billings
+Birmingham, AL
+Bloomington, IN
+Boise
+Boston
+Bowling Green, KY
+Bozeman
+Cedar Rapids
+Central Atlantic Coast, FL
+Central Oregon
+Champaign
+Charleston, SC
+Charlotte
+Charlottesville-Harrisonburg
+Chattanooga
+Chicago
+Cincinnati
+Cleveland
+Coeur D'Alene
+College Station
+Colorado Springs
+Columbia, MO
+Columbia, SC
+Columbus
+Columbus, GA
+Connecticut
+Cookeville
+Corpus Christi
+Dallas-Fort Worth
+Dayton
+Denver
+Des Moines
+Detroit
+Dothan
+Duluth
+Eastern Idaho
+Eastern North Carolina
+Eastern Shore
+Eastern Washington
+Eastern WV
+El Paso
+Erie
+Evansville, IN
+Fargo - Moorhead
+Fayetteville, AR
+Fayetteville, NC
+Flagstaff
+Flint
+Fort Collins
+Fort Myers-Naples
+Fort Wayne
+Fresno
+Gainesville
+Grand Rapids
+Green Bay
+Greenville, SC
+Gulfport-Biloxi
+Hampton Roads
+Harrisburg
+Hattiesburg, MS
+Honolulu
+Houston
+Huntsville, AL
+Indianapolis
+Inland Empire
+Iowa City
+Jackson
+Jackson, TN
+Jacksonville
+Jonesboro
+Kalamazoo
+Kansas City
+Killeen
+Knoxville
+Lafayette-Lake Charles
+Lancaster, PA
+Lansing
+Laredo
+Las Cruces
+Las Vegas
+Lawrence
+Lawton
+Lehigh Valley
+Lexington
+Lincoln
+Little Rock
+Los Angeles
+Louisville
+Lubbock
+Macon
+Madison
+Manhattan
+Memphis
+Miami
+Midland-Odessa
+Milwaukee
+Minneapolis - St. Paul
+Missoula
+Mobile, AL
+Modesto
+Monroe
+Montgomery, AL
+Myrtle Beach
+Nashville
+New Hampshire
+New Jersey
+New Orleans
+New York City
+NW Indiana
+NYC Suburbs
+Ocala, FL
+Oklahoma City
+Olympia
+Omaha
+Orange County
+Orlando
+Oxford
+Palm Springs
+Peninsula and SW WA
+Pensacola, FL
+Peoria, IL
+Philadelphia
+Phoenix
+Piedmont Triad
+Pittsburgh
+Portland
+Portland, ME
+Quad Cities
+Raleigh-Durham
+Reading, PA
+Reno
+Rhode Island
+Richmond
+Rio Grande Valley
+Roanoke-Blacksburg
+Rochester, MN
+Rockford
+Sacramento
+Salt Lake City
+San Antonio
+San Diego
+San Francisco Bay Area
+San Juan, PR
+San Luis Obispo
+Santa Barbara
+Santa Fe
+Sarasota
+Savannah-Hilton Head
+Seattle
+Shreveport-Alexandria
+Sioux City
+South Bend
+Southern Oregon
+Spokane
+Springfield, IL
+Springfield, Mo
+St Louis
+State College
+Stillwater
+Tacoma
+Tallahassee
+Tampa Bay
+Terre Haute
+Toledo
+Topeka
+Traverse City
+Tucson
+Tulsa
+Tuscaloosa
+Tyler
+Upstate NY
+Ventura
+Vermont
+Waco
+Washington D.C.
+Waterloo-Cedar Falls
+West Lafayette
+Western MA
+Western WV
+Wichita
+Wilkes-Barre Scranton
+Willamette Valley
+Wilmington, NC
+Worcester
+Wyoming
+York-Gettysburg
+Youngstown
+Montevideo

@@ -1,0 +1,203 @@
+Abilene
+Akron
+Albuquerque
+Amarillo
+Ann Arbor
+Asheville, NC
+Athens
+Atlanta
+Auburn
+Augusta
+Austin
+Bakersfield
+Baltimore-Maryland
+Baton Rouge
+Beaumont
+Bellingham
+Billings
+Birmingham, AL
+Bloomington, IN
+Boise
+Boston
+Bowling Green, KY
+Bozeman
+Cedar Rapids
+Central Atlantic Coast, FL
+Central Oregon
+Champaign
+Charleston, SC
+Charlotte
+Charlottesville-Harrisonburg
+Chattanooga
+Chicago
+Cincinnati
+Cleveland
+Coeur D'Alene
+College Station
+Colorado Springs
+Columbia, MO
+Columbia, SC
+Columbus
+Columbus, GA
+Connecticut
+Cookeville
+Corpus Christi
+Dallas-Fort Worth
+Dayton
+Denver
+Des Moines
+Detroit
+Dothan
+Duluth
+Eastern Idaho
+Eastern North Carolina
+Eastern Shore
+Eastern Washington
+Eastern WV
+El Paso
+Erie
+Evansville, IN
+Fargo - Moorhead
+Fayetteville, AR
+Fayetteville, NC
+Flagstaff
+Flint
+Fort Collins
+Fort Myers-Naples
+Fort Wayne
+Fresno
+Gainesville
+Grand Rapids
+Green Bay
+Greenville, SC
+Gulfport-Biloxi
+Hampton Roads
+Harrisburg
+Hattiesburg, MS
+Honolulu
+Houston
+Huntsville, AL
+Indianapolis
+Inland Empire
+Iowa City
+Jackson
+Jackson, TN
+Jacksonville
+Jonesboro
+Kalamazoo
+Kansas City
+Killeen
+Knoxville
+Lafayette-Lake Charles
+Lancaster, PA
+Lansing
+Laredo
+Las Cruces
+Las Vegas
+Lawrence
+Lawton
+Lehigh Valley
+Lexington
+Lincoln
+Little Rock
+Los Angeles
+Louisville
+Lubbock
+Macon
+Madison
+Manhattan
+Memphis
+Miami
+Midland-Odessa
+Milwaukee
+Minneapolis - St. Paul
+Missoula
+Mobile, AL
+Modesto
+Monroe
+Montgomery, AL
+Myrtle Beach
+Nashville
+New Hampshire
+New Jersey
+New Orleans
+New York City
+NW Indiana
+NYC Suburbs
+Ocala, FL
+Oklahoma City
+Olympia
+Omaha
+Orange County
+Orlando
+Oxford
+Palm Springs
+Peninsula and SW WA
+Pensacola, FL
+Peoria, IL
+Philadelphia
+Phoenix
+Piedmont Triad
+Pittsburgh
+Portland
+Portland, ME
+Quad Cities
+Raleigh-Durham
+Reading, PA
+Reno
+Rhode Island
+Richmond
+Rio Grande Valley
+Roanoke-Blacksburg
+Rochester, MN
+Rockford
+Sacramento
+Salt Lake City
+San Antonio
+San Diego
+San Francisco Bay Area
+San Juan, PR
+San Luis Obispo
+Santa Barbara
+Santa Fe
+Sarasota
+Savannah-Hilton Head
+Seattle
+Shreveport-Alexandria
+Sioux City
+South Bend
+Southern Oregon
+Spokane
+Springfield, IL
+Springfield, Mo
+St Louis
+State College
+Stillwater
+Tacoma
+Tallahassee
+Tampa Bay
+Terre Haute
+Toledo
+Topeka
+Traverse City
+Tucson
+Tulsa
+Tuscaloosa
+Tyler
+Upstate NY
+Ventura
+Vermont
+Waco
+Washington D.C.
+Waterloo-Cedar Falls
+West Lafayette
+Western MA
+Western WV
+Wichita
+Wilkes-Barre Scranton
+Willamette Valley
+Wilmington, NC
+Worcester
+Wyoming
+York-Gettysburg
+Youngstown
